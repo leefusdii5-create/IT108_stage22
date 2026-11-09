@@ -2,7 +2,7 @@
 ## 1. Chuỗi truy vấn
 
 ```text
-"Nhập môn Công nghệ Thông tin" filetype:pdf site:ptit.edu.vn -scribd -studocu
+"Nhập môn Công nghệ Thông tin" filetype:pdf site:rikkei.edu.vn -scribd -studocu
 ```
 
 ## 2. Ý nghĩa các toán tử
